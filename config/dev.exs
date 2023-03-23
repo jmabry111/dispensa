@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :dispensa, Dispensa.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "N3spsbbkht3pA2",
   hostname: "localhost",
   database: "dispensa_dev",
   stacktrace: true,
