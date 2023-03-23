@@ -1,3 +1,3 @@
-#Dispensa
+# Dispensa
 
 ## Pantry management
